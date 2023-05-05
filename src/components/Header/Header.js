@@ -15,9 +15,10 @@ import {
 const Header = () => (
   <Container>
     <Div1>
-      <Link href="/">
-        style={{ display: "flex", alignItems: "center", color: "white" }}
-        <DiCssdeck size={"3rem"} /> <span>Portifolio</span>
+      <Link legacyBehavior href="/">
+        <a style={{ display: "flex", alignItems: "center", color: "white" }}>
+          <DiCssdeck size={"3rem"} /> <span>Portifolio</span>
+        </a>
       </Link>
     </Div1>
   </Container>
