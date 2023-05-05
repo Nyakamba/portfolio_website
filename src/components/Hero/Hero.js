@@ -18,10 +18,10 @@ const Hero = (props) => (
       <SectionText>
         I'm a Front-End Software Developer by passion and an expert by choice
         living now in Nairobi.
-        <br />I use react with with Tailwind CSS framework to develop user
-        responsive web applications.
+        <br />I use react with Tailwind CSS framework to develop user responsive
+        web applications.
       </SectionText>
-      <Button onClick={() => (winndow.location = "https:google.com")}>
+      <Button onClick={() => (window.location = "https:google.com")}>
         Learn More
       </Button>
     </LeftSection>
