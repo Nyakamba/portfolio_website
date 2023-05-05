@@ -23,6 +23,12 @@ import { projects } from "../../constants/constants";
 const Projects = () => (
   <section nopadding id="projects">
     <SectionDivider />
+    <SectionTitle main>Projects</SectionTitle>
+    <GridContainer>
+      {[0, 1, 2].map((project) => (
+        <div>{project}</div>
+      ))}
+    </GridContainer>
   </section>
 );
 
