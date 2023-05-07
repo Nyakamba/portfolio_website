@@ -1,0 +1,8 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nyakamba/portfolio_website.git",
+  "author": "Nyakamba <omwegaenock@gmail.com>",
+  "license": "MIT"
+}
