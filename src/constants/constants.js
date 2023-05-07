@@ -50,8 +50,8 @@ export const TimeLineData = [
 ];
 
 export const data = [
-  { number: 20, text: "Open Source Projects" },
-  { number: 1000, text: "Students" },
-  { number: 1900, text: "Github Followers" },
-  { number: 5000, text: "Github Stars" },
+  { number: 10, text: "Open Source Projects" },
+  { number: 2000, text: "Github commits" },
+  { number: 30, text: "Current Streak" },
+  { number: 30, text: "Github Repositories" },
 ];
