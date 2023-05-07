@@ -6,6 +6,7 @@ import {
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
+import { data } from "../../constants/constants";
 
 const Acomplishments = () => (
   <Section>

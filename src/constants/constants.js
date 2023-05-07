@@ -49,7 +49,7 @@ export const TimeLineData = [
   { year: 2021, text: "Started my own platform" },
 ];
 
-const data = [
+export const data = [
   { number: 20, text: "Open Source Projects" },
   { number: 1000, text: "Students" },
   { number: 1900, text: "Github Followers" },
