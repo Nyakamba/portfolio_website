@@ -69,6 +69,7 @@ const Timeline = () => {
         Proficient software developer with a strong focus on React, JavaScript,
         HTML, and CSS.
       </SectionText>
+
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         {" "}
         <>
@@ -138,6 +139,7 @@ const Timeline = () => {
           </CarouselButton>
         ))}
       </CarouselButtons>
+
       <SectionDivider />
     </Section>
   );
