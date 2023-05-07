@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import {
   AiFillGithub,
-  AiFillInstagram,
+  AiFillFacebook,
   AiFillLinkedin,
   AiFillTwitterCircle,
 } from "react-icons/ai";
@@ -58,8 +58,8 @@ const Header = () => (
       <SocialIcons href="https://linkedin.com">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
-        <AiFillInstagram size="3rem" />
+      <SocialIcons href="https://facebook.com">
+        <AiFillFacebook size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://twitter.com">
         <AiFillTwitterCircle size="3rem" />
