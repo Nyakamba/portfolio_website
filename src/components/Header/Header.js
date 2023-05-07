@@ -30,7 +30,7 @@ const Header = () => (
             marginBottom: "10px",
           }}
         >
-          <DiCssdeck size="3rem" /> <Span>ENOCK OMWEGA.</Span>
+          <DiCssdeck size="3rem" /> <Span>ENOCK.</Span>
         </a>
       </Link>
     </Div1>
