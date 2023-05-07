@@ -15,5 +15,8 @@
     "react-icons": "^4.8.0",
     "styled-components": "^5.3.10",
     "styled-normalize": "^8.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
   }
 }
