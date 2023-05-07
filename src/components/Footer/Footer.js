@@ -37,7 +37,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>
-            <p>Bringing Your Ideas to Life with Elegant Frontend Designs</p>
+            Bringing Your Ideas to Life with Elegant Frontend Designs
           </Slogan>
         </CompanyContainer>
         <SocialContainer>
