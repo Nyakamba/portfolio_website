@@ -13,7 +13,7 @@ export const projects = [
     title: "Gericht",
     description:
       "Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus",
-    image: "/images/2.png",
+    image: "/images/2.jpg",
     tags: ["React", "JavaScript", "CSS"],
     source: "https://rococo-sorbet-b6d737.netlify.app/",
     visit: "https://github.com/Nyakamba/gerich-restaurant",
