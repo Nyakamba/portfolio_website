@@ -1,22 +1,22 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "HooBank",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["React", "CSS", "HTML", "Node"],
+    source: "https://marvelous-biscotti-b2c843.netlify.app/",
+    visit: "https://github.com/Nyakamba/bank_modern_app",
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "Gericht",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus",
     image: "/images/2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    tags: ["React", "JavaScript", "CSS"],
+    source: "https://rococo-sorbet-b6d737.netlify.app/",
+    visit: "https://github.com/Nyakamba/gerich-restaurant",
     id: 1,
   },
   {
