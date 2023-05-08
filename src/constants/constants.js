@@ -9,16 +9,7 @@ export const projects = [
     visit: "https://github.com/Nyakamba/bank_modern_app",
     id: 0,
   },
-  {
-    title: "Gericht",
-    description:
-      "Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus",
-    image: "/images/2.jpg",
-    tags: ["React", "JavaScript", "CSS"],
-    source: "https://rococo-sorbet-b6d737.netlify.app/",
-    visit: "https://github.com/Nyakamba/gerich-restaurant",
-    id: 1,
-  },
+
   {
     title: "GPT-3",
     description:
@@ -27,7 +18,7 @@ export const projects = [
     tags: ["React", "Node", "CSS"],
     source: "https://bucolic-sherbet-6a6de4.netlify.app/#whpt3",
     visit: "https://github.com/Nyakamba/gpt-3_alx_portfolio_project",
-    id: 2,
+    id: 1,
   },
   {
     title: "My Portfolio",
@@ -37,6 +28,16 @@ export const projects = [
     tags: ["React", "Next", "CSS"],
     source: "https://capable-fairy-db913e.netlify.app/",
     visit: "https://github.com/Nyakamba/portfolio_website",
+    id: 2,
+  },
+  {
+    title: "Gericht",
+    description:
+      "Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus",
+    mage: "/images/2.png",
+    tags: ["React", "JavaScript", "CSS"],
+    source: "https://rococo-sorbet-b6d737.netlify.app/",
+    visit: "https://github.com/Nyakamba/gerich-restaurant",
     id: 3,
   },
 ];
