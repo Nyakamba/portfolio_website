@@ -16,12 +16,16 @@ const Hero = (props) => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I'm a Front-End Software Developer by passion and an expert by choice
-        living now in Nairobi.
-        <br />I use react with Tailwind CSS framework to develop user responsive
-        web applications.
+        I have a passion for Front-End Software Development, and I am an expert
+        in this field by choice. Currently, I reside in Nairobi. <br />
+        My preferred technology stack involves React and Tailwind CSS framework
+        for developing responsive web applications that cater to user needs.
       </SectionText>
-      <Button onClick={() => (window.location = "https:google.com")}>
+      <Button
+        onClick={() =>
+          (window.location = "https://www.linkedin.com/in/enockomwega/")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>
