@@ -66,8 +66,16 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Proficient software developer with a strong focus on Reactjs, Redux,
-        JavaScript, HTML, and CSS frameworks.
+        Fron-End developerwith 2 years of developments experience. I develop web
+        applictaions using Reactjs, Redux, Next.js, Javascript, Node, APIs,
+        Tailwind CSS. I specialize in creating visually appealing and
+        easy-to-use websites and applications that enhance the user experience
+        and drive engagement. By leveraging the latest front-end technologies
+        and frameworks, I design custom solutions that align with my clients'
+        business needs and goals. Whether you're looking to improve an existing
+        website or build a new one, I can help you create a high-quality,
+        responsive design that delivers results. Let's connect and explore how I
+        can bring your vision to life.
       </SectionText>
 
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
