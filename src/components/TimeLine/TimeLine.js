@@ -66,8 +66,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Proficient software developer with a strong focus on React, JavaScript,
-        HTML, and CSS.
+        Proficient software developer with a strong focus on Reactjs, Redux,
+        JavaScript, HTML, and CSS frameworks.
       </SectionText>
 
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
