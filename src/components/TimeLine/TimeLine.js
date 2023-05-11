@@ -66,7 +66,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Fron-End developerwith 2 years of developments experience. I develop web
+        Fron-End developer with 2 years of development experience. I develop web
         applictaions using Reactjs, Redux, Next.js, Javascript, Node, APIs,
         Tailwind CSS. I specialize in creating visually appealing and
         easy-to-use websites and applications that enhance the user experience
