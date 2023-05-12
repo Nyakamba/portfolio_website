@@ -19,7 +19,7 @@ const Hero = (props) => (
         I have a passion for Front-End Software Development, and I am an expert
         in this field by choice. Currently, I reside in Nairobi. <br />
         My preferred technology stack involves React and Tailwind CSS framework
-        for developing responsive web applications that cater to user needs.
+        for developing responsive web applications that cater to user(s) needs.
       </SectionText>
       <Button
         onClick={() =>
